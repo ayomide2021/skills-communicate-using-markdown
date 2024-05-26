@@ -5,3 +5,8 @@
 
 
 I have changed the headinga for each of the sentences above
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
